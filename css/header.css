@@ -1,0 +1,79 @@
+
+ 
+
+.destop {
+  background: #000000;
+}
+
+nav {
+  background: #0F0F0F;
+}
+
+.dask {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.logo p {
+ 
+  display: flex;
+  align-items: center;
+  padding: 14px 0px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: right;
+  color: #969696;
+}
+
+
+
+.poker {
+  display: flex;
+  justify-content: space-between;
+}
+
+.poinet ul {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.poinet li {
+  margin-right: -45px;
+}
+
+.poinet li a {
+  margin: 0px 20px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+
+  color: #969696;
+}
+
+.poinet li a:hover {
+  padding: 14px;
+  background-color:  #1F1F1F;
+  box-shadow: 0px 0px 32px  #1F1F1F;
+  
+}
+
+.poinet li img {
+  margin: 0px 0px 0px 60px;
+}
+
+button {
+  
+  background-color: transparent;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #969696;
+}

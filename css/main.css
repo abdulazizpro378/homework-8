@@ -1,0 +1,380 @@
+@import "./common.css";
+@import "./header.css";
+@import "./footer.css";
+
+#eror {
+  background-image: url(../images/bac.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.nec {
+  display: flex;
+  flex-direction: column;
+}
+
+.flesh {
+  display: flex;
+  justify-content: center;
+}
+
+.flesh p {
+  font-family: 'PT Sans', sans-serif;
+  max-width: 730px;
+  margin-bottom: 155px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.dark h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.zip {
+  margin-top: 160px;
+  margin-bottom: 80px;
+  width: 320px;
+  height: 320px;
+  left: 800px;
+  top: 284px;
+  background-color: transparent;
+  border: 4px solid #ffffff;
+}
+
+.yana {
+  margin: 4px 0px 7px;
+  display: flex;
+  justify-content: center;
+}
+
+.yes {
+  background-color: #ffffff;
+  width: 179px;
+  height: 0px;
+  left: 870px;
+  border: 1px solid #ffffff;
+}
+
+.containe {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+.deep {
+  background: #000000;
+}
+
+.root {
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.wach {
+ max-width: 50%;
+}
+
+
+@media (max-width:2100px;) {
+    .suub {
+      max-width: 100%;
+    }
+
+}
+
+.wach h1 {
+  font-family: 'Playfair Display', serif;
+  margin-top: 95px;
+  margin-left: -100px;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.som {
+  display: flex;
+  justify-content: center;
+  margin-left: -100px;
+}
+
+.kas {
+  margin: 50px 0px;
+  width: 110px;
+  width: 110.77px;
+  height: 0px;
+  left: 424.62px;
+  top: 1116px;
+
+  background-color: white;
+
+  border: 1px solid #ffffff;
+}
+
+.text {
+  margin-top: 25px;
+}
+
+.text h4 {
+  max-width: 125px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.text p {
+  max-width: 84px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+
+  color: #d0d0d0;
+}
+
+.abu {
+  display: flex;
+  justify-content: center;
+  margin-left: -100px;
+}
+
+.suub {
+  display: inline-block;
+  background-image: url(../images/odam.png);
+  /* background-size: 100%; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 960px 730px;
+
+  max-width: 960px;
+}
+
+.soat {
+  margin-right: 45px;
+  /* width: 240px; */
+  max-width: 33%;
+  height: 325px;
+  left: 360px;
+  top: 1166px;
+  margin-bottom: 160px;
+  background: #191b1c;
+}
+
+.soat img {
+  padding: 50px 0px;
+}
+
+@media ( max-width:2200px){
+  .soat {
+    max-width: 50%
+    ;
+  }
+}
+
+
+
+.text {
+  margin-left: -15px;
+  width: 250px;
+  background: #000000;
+  margin-bottom: 40px;
+}
+
+.suub {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.suub h1 {
+  font-family: 'Playfair Display', serif;
+  padding-top: 485px;
+  font-size: 36px;
+  line-height: 48px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0px 370px;
+  color: #ffffff;
+}
+
+.sofa {
+  display: flex;
+  justify-content: center;
+}
+
+.cuul {
+  margin-top: 30px;
+  width: 130.91px;
+  height: 0px;
+  left: 1375.64px;
+  margin-bottom: 40px;
+  background-color: white;
+  border: 0.5px solid #ffffff;
+}
+
+button {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding: 15px 45px;
+  border: 0.5px solid #ffffff;
+}
+
+#sirf {
+  background-color: #000000;
+}
+
+.about-cad {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ima img {
+  max-width: 930px;
+}
+
+.sirf {
+  width: 40%;
+}
+.sirf h1 {
+  margin-top: 100px;
+  margin-bottom: 40px;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+  text-align: center;
+  text-transform: uppercase;
+
+  /* white */
+
+  color: #ffffff;
+}
+
+.sirf p {
+  font-family: 'PT Sans', sans-serif;
+  margin-left: 150px;
+  margin-bottom: 73px;
+  max-width: 471px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  text-align: center;
+  color: #ffffff;
+}
+
+.yana1 {
+  display: flex;
+  justify-content: center;
+}
+
+.bor2 {
+  margin-bottom: 40px;
+  width: 120px;
+  height: 0px;
+  left: 1340px;
+  top: 1843px;
+
+  border: 1px solid #ffffff;
+}
+
+.sirf button {
+  margin-bottom: 112px;
+  margin-left: 200px;
+}
+
+#damo {
+  background: #000000;
+
+}
+
+.suv {
+ padding-bottom: 30px ;
+}
+
+.suv h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  /* identical to box height */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  /* white */
+
+  color: #ffffff;
+}
+
+.xp p {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  /* identical to box height */
+
+  /* white */
+
+  color: #ffffff;
+}
+
+.xp2 p {
+ 
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  /* identical to box height */
+
+  /* white */
+
+  color: #ffffff;
+}
+
+.xs ul {
+  margin-top: 81px;
+  display: flex;
+  justify-content: space-between;
+}
+.xp ul {
+  margin-top: 25px;
+  margin-bottom: 40px;
+  display: flex;
+  
+  justify-content: space-between;
+}
+
+.xs2 ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.xp2 ul {
+  margin-top: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.xs li {
+  padding: 55px 22px;
+  background-color: #191B1C;;
+}
+
+.xs2 li {
+  padding: 55px 22px;
+  background-color: #191B1C;;
+}
+

@@ -1,0 +1,33 @@
+.paul h2 {
+    padding-top: 100px;
+    
+    margin-bottom: 40px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    /* identical to box height */
+  
+    text-align: center;
+    text-transform: uppercase;
+  
+    /* white */
+  
+    color: #ffffff;
+  }
+  
+  footer {
+    background: #0F0F0F;
+  }
+  
+  .coco ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  .coco {
+    padding-bottom: 80px;
+    max-width: 100%;
+  }
+
+ 
+  
+  
